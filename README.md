@@ -56,7 +56,7 @@ pip install -r requirements.txt
 2. Unzip the database files and install the required Python packages:
 
     ```bash
-source init.sh
+    source init.sh
     ```
 
 3. Ensure that all input data is placed in the `data` folder.
@@ -65,9 +65,9 @@ source init.sh
 
 Once the dependencies are installed, you can run the `main.py` script by using the `run.sh` script, which will execute the pipeline:
 
-    ```bash
-source run.sh
-    ```
+```bash
+ source run.sh
+```
 
 This will process the data files in the `data` folder, apply the MEFE algorithm, and save the results to the `output` folder.
 
