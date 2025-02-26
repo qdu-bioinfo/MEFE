@@ -65,9 +65,9 @@ source init.sh
 
 Once the dependencies are installed, you can run the `main.py` script by using the `run.sh` script, which will execute the pipeline:
 
-```bash
+    ```bash
 source run.sh
-```
+    ```
 
 This will process the data files in the `data` folder, apply the MEFE algorithm, and save the results to the `output` folder.
 
