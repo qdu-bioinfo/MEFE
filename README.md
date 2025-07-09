@@ -71,6 +71,10 @@ Once the dependencies are installed, you can run the `main.py` script by using t
 
 This will process the data files in the `data` folder, apply the MEFE algorithm, and save the results to the `output` folder.
 
+## Citation
+
+Guosen HOU, Yuxiao FEI, Hao GAO, Xiaoquan SU. MEFE: microbiome signature identification based on elastic feature extraction. Front. Comput. Sci., 2026, 20(1): 2001901 https://doi.org/10.1007/s11704-025-50323-1
+
 ### Output Files
 
 - **biomarker_matrix.txt**: Contains the selected biomarker features after applying the elastic extraction mechanism.
